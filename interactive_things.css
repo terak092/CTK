@@ -19,3 +19,22 @@ section {
     height: max-content;
     border-radius: 20px;
 }
+article {
+    display:grid;
+    grid-template-columns: repeat(3 1fr);
+    grid-template-rows:min-content;
+    grid-template-areas:
+    "snake homework random"
+}
+
+.snake{
+grid-area: snake;
+}
+
+.homework{
+ grid-area: homework;   
+}
+
+.random{
+ grid-area: random;   
+}
