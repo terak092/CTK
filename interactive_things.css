@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(251, 255, 240) 
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+h1 {
+    font-size: 48px;
+    text-align: center;
+    background-image: linear-gradient(30deg, rgb(139, 145, 218), rgb(29, 0, 83));;
+    padding: 5px;
+    margin: 50px 100px;
+}
+h2 {
+    font-variant:small-caps;
+}
+section {
+    background-color: rgb(139, 145, 218);
+    padding: 5px 10px;
+    margin: 30px 1em;
+    height: max-content;
+    border-radius: 20px;
+}
