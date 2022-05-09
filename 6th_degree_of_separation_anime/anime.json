@@ -1,0 +1,997 @@
+{
+    "shows": [{
+            "title": "My Hero Academia (僕のヒーローアカデミア)",
+            "cast": [
+                {
+                    "character": "Izuku (Deku) Midoriya",
+                    "actor": "Daiki Yamashita"
+                },
+                {
+                    "character": "All Might (Toshinori Yagi)",
+                    "actor": "Kenta Miyake"
+                },
+                {
+                    "character": "Katsuki Bakugo",
+                    "actor": "Nobuhiko Okamoto"
+                },
+                {
+                    "character":"Shoto Todoroki",
+                    "actor": "Yuki Kaji"
+                },
+                {
+                    "character": "Ochako Urarka",
+                    "actor": "Ayane Sakura"
+                },
+                {
+                    "character": "Tenya Iida",
+                    "actor": "Kaito Ishikawa"
+                },
+                {
+                    "character": "Eijiro Kirishima",
+                    "actor": "Toshiki Masuda"
+                },
+                {
+                    "character": "Tsuyu Asui",
+                    "actor": "Aoi Yuki"
+                },
+                {
+                    "character": "Momo Yaoyorozu",
+                    "actor": "Marina Inoue"
+                },
+                {
+                    "character": "Minoru Mineta",
+                    "actor": "Ryo Hirohasi"
+                },
+                {
+                    "character": "Denki Kaminari",
+                    "actor": "Tasuku Hatanaka"
+                },
+                {
+                    "character": "Kyoka Jiro",
+                    "actor": "Kei Shindo"
+                },
+                {
+                    "character": "Fumikage Tokoyami",
+                    "actor": "Yoshimasa Hosoya"
+                },
+                {
+                    "character": "Mina Ashido",
+                    "actor": "Eri Kitamura"
+                },
+                {
+                    "character": "Yuga Aoyama",
+                    "actor": "Kosuke Kuwano"
+                },
+                {
+                    "character": "Mezo Shoji",
+                    "actor": "Masakazu Nishida"
+                },
+                {
+                    "character": "Hanta Sero",
+                    "actor": "Kiyotaka Furushima"
+                },
+                {
+                    "character": "Masahirao Ojiro",
+                    "actor": "Kosuke Miyoshi"
+                },
+                {
+                    "character": "Koji Koda",
+                    "actor": "Takuma Nagatsuka"
+                },
+                {
+                    "character": "Rikido Sato",
+                    "actor": "Toru Nara"
+                },
+                {
+                    "character": "Toru Hagakure",
+                    "actor": "Kaori Nazuka"
+                },
+                {
+                    "character": "Shota Aizawa (Eraserhead)",
+                    "actor": "Junichi Suwabe"
+                },
+                {
+                    "character": "Neito Monoma",
+                    "actor": "Kohei Amasaki"
+                },
+                {
+                    "character": "Itsuka Kendo",
+                    "actor": "Saki Ogasawara"
+                },
+                {
+                    "character": "Tetsutetsu Tetsutetsu",
+                    "actor": "Koji Okino"
+                },
+                {
+                    "character": "Mirio Togata",
+                    "actor": "Tarusuke Shingaki"
+                },
+                {
+                    "character": "Tamaki Amajiki",
+                    "actor": "Yuto Uemura"
+                },
+                {
+                    "character": "Nejire Hado",
+                    "actor": "Kiyono Yasuno"
+                },
+                {
+                    "character": "Mei Hatsume",
+                    "actor": "Azu Sakrua"
+                },
+                {
+                    "character": "Hitoshi Shinso",
+                    "actor": "Wataru Hatano"
+                },
+                {
+                    "character": "Enji Todoroki (Endeavor)",
+                    "actor": "Tetsu Inada"
+                },
+                {
+                    "character": "Keigo Takami (Hawks)",
+                    "actor": "Yuichi Nakamura"
+                },
+                {
+                    "character": "Nezu",
+                    "actor": "Yasuhiro Takato"
+                },
+                {
+                    "character": "Hizashi Yamada (Present Mic",
+                    "actor": "Hiroyuki Yoshino" 
+                },
+                {
+                    "character": "Tomura Shigaraki",
+                    "actor": "Koki Uchiyama"
+                },
+                {
+                    "character": "All For One",
+                    "actor": "Akio Otsuka"
+                },
+                {
+                    "character": "Touya Todoroki (Dabi)",
+                    "actor": "Hiro Shimono"
+                },
+                {
+                    "character": "Himiko Toga",
+                    "actor": "Misato Fuken"
+                },
+                {
+                    "character": "Kai Chisaki (Overhaul)",
+                    "actor": "Kenjiro Tsuda"
+                },
+                {
+                    "character": "Eri",
+                    "actor": "Seiran Kobayashi"
+                }
+            ]
+        },
+        {
+            "title": "Haikyu!!",
+            "cast": [
+                {
+                    "character": "Shoyo Hinata",
+                    "actor": "Ayumu Murase"
+                },
+                {
+                    "character": "Tobio Kageyama",
+                    "actor": "Kaito Ishikawa"
+                },
+                {
+                    "character": "Kei Tsukishima",
+                    "actor": "Koki Uchiyama"
+                },
+                {
+                    "character": "Tadashi Yamaguchi",
+                    "actor": "Soma Saito"
+                },
+                {
+                    "character":"Daichi Sawamura",
+                    "actor": "Satoshi Hino"
+                },
+                {
+                    "character": "Kohsi Sugawara",
+                    "actor": "Miyu Irino"
+                },
+                {
+                    "character":"Asahi Azumane",
+                    "actor": "Yoshimasa Hosoya"
+                },
+                {
+                    "character": "Yu Nishinoya",
+                    "actor": "Nobuhiko Okamoto"
+                },
+                {
+                    "character":"Ryunosuke Tanaka",
+                    "actor": "Yu Hayashi"
+                },
+                {
+                    "character":"Chikara Ennoshita",
+                    "actor": "Toshiki Masuda"
+                },
+                {
+                    "character": "Hisashi Kinoshita",
+                    "actor": "Nobuyori Sagara"
+                },
+                {
+                    "character": "Kazuhito Narita",
+                    "actor": "Kotaro Nishiyama"
+                },
+                {
+                    "character": "Kiyoko Shimizu",
+                    "actor": "Kaori Nazuka"
+                },
+                {
+                    "character": "Hitoka Yachi",
+                    "actor": "Sumire Morohoshi"
+                },
+                {
+                    "character":"Ittetsu Takeda",
+                    "actor": "Hiroshi Kamiya"
+                },
+                {
+                    "character": "Kenshin Ukai",
+                    "actor": "Kazunari Tanaka"
+                },
+                {
+                    "character": "Toru Oikawa",
+                    "actor": "Daisuke Namikawa"
+                },
+                {
+                    "character": "Hajime Iwaizumi",
+                    "actor": "Hiroyuki Yoshino"
+                },
+                {
+                    "character": "Shigeru Yahaba",
+                    "actor": "Kengo Kawanishi"
+                },
+                {
+                    "character":"Yutaro Kindaichi",
+                    "actor": "Makoto Furukawa"
+                },
+                {
+                    "character": "Akira Kunimi",
+                    "actor": "Atsushi Tamaru"
+                },
+                {
+                    "character":"Tetsuro Kuroo",
+                    "actor": "Yuichi Nakamura"
+                },
+                {
+                    "character": "Kenma Kozume",
+                    "actor": "Yuki Kaji"
+                },
+                {
+                    "character": "Kotaro Bokuto",
+                    "actor": "Ryohei Kimura"
+                },
+                {
+                    "character": "Keiji Akaashi",
+                    "actor": "Ryota Osaka"
+                },
+                {
+                    "character": "Wakatoshi Ushijima",
+                    "actor": "Ryota Takeuchi"
+                },
+                {
+                    "character": "Satori Tendo",
+                    "actor": "Subaru Kimura"
+                },
+                {
+                    "character": "Tsutomu Goshiki",
+                    "actor": "Shimba Tsuchiya"
+                },
+                {
+                    "character": "Kenjiro Shirabu",
+                    "actor": "Toshiyuki Toyonaga"
+                },
+                {
+                    "character": "Atsumu Miya",
+                    "actor": "Mamoru Miyano"
+                },
+                {
+                    "character": "Rintaro Suna",
+                    "actor": "Nobunaga Shimazaki"
+                },
+                {
+                    "character": "Osamu Miya",
+                    "actor": "Hideaki Kabumoto"
+                },
+                {
+                    "character": "Kiyoomi Sakusa",
+                    "actor": "Kohsuke Toriumi"
+                },
+                {
+                    "character": "Korai Hoshiumi",
+                    "actor": "Natsuki Hanae"
+                },
+                {
+                    "character": "Akiteru Tsukishima",
+                    "actor": "Takahiro Sakurai"
+                }
+            ]
+        },
+        {
+            "title": "Demon Slayer (鬼滅の刃)",
+            "cast": [
+                {
+                    "character": "Tanjiro Kamado",
+                    "actor": "Natsuki Hanae"
+                },
+                {
+                    "character": "Nezuko Kamado",
+                    "actor": "Akari Kito"
+                },
+                {
+                    "character": "Zenitsu Agatsuma",
+                    "actor": "Hiro Shimono"
+                },
+                {
+                    "character": "Inosuke Hashibira",
+                    "actor": "Yoshitsugu Matsuoka"
+                },
+                {
+                    "character": "Kanao Tsuyuri",
+                    "actor": "Reina Ueda"
+                },
+                {
+                    "character": "Genya Shinazugawa",
+                    "actor": "Nobuhiko Okamoto"
+                },
+                {
+                    "character": "Giyu Tomioka",
+                    "actor": "Takahiro Sakurai"
+                },
+                {
+                    "character": "Shinobu Kocho",
+                    "actor": "Saori Hayami"
+                },
+                {
+                    "character": "Kyojuro Rengoku",
+                    "actor": "Satoshi Hino"
+                },
+                {
+                    "character": "Tengen Uzui",
+                    "actor": "Katsuyuki Konishi"
+                },
+                {
+                    "character": "Mitsuri Kanroji",
+                    "actor": "Kana Hanzawa"
+                },
+                {
+                    "character": "Muichiro Tokito",
+                    "actor": "Kengo Kawanishi"
+                },
+                {
+                    "character": "Gyomei Himejima",
+                    "actor": "Tomokazu Sugita"
+                },
+                {
+                    "character": "Obanai Iguro",
+                    "actor": "Kenichi Suzumura"
+                },
+                {
+                    "character": "Sanemi Shinazugawa",
+                    "actor": "Tomokazu Seki"
+                },
+                {
+                    "character": "Hotaru Haganezuka",
+                    "actor": "Daisuke Namikawa"
+                },
+                {
+                    "character": "Muzan Kibutsuji",
+                    "actor": "Tohsihiko Awki"
+                },
+                {
+                    "character": "Doma",
+                    "actor": "Mamoru Miyano"
+                }
+            ]
+        },
+        {
+            "title": "Ouran High School Host Club",
+            "cast": [
+                {
+                    "character": "Haruhi Fujioka",
+                    "actor": "Maaya Sakamoto"
+                },
+                {
+                    "character": "Tamaki Suoh",
+                    "actor": "Mamoru Miyano"
+                },
+                {
+                    "character": "Kyoya Ootori",
+                    "actor": "Masaya Matsukaze"
+                },
+                {
+                    "character": "Hikaru Hitachiin",
+                    "actor": "Kenichi Suzumura"
+                },
+                {
+                    "character": "Kaoru Hitachiin",
+                    "actor": "Yoshinori Fujita"
+                },
+                {
+                    "character": "Mitsukuni Haninozuka (Honey)",
+                    "actor": "Ayaka Saito"
+                },
+                {
+                    "character": "Takashi Morniozuka (Mori)",
+                    "actor": "Daisuke Kirii"
+                }
+            ]
+        },
+        {
+            "title": "Kaguya-sama: Love Is War",
+            "cast": [
+                {
+                    "character": "Kaguya Shinomiya",
+                    "actor": "Aoi Koga"
+                },
+                {
+                    "character": "Miyuki Shirogane",
+                    "actor": "Makoto Furukawa"
+                },
+                {
+                    "character": "Chika Fujiwara",
+                    "actor": "Konomi Kohara"
+                },
+                {
+                    "character": "Yu Ishigami",
+                    "actor": "Ryota Suzuki"
+                },
+                {
+                    "character": "Ai Hayasaka",
+                    "actor": "Yumiri Hanamori"
+                },
+                {
+                    "character": "Miko Ino",
+                    "actor": "Miyu Tomita"
+                }
+            ]
+        },
+        {
+            "title": "Attack On Titan (進撃の巨人)",
+            "cast": [
+                {
+                    "character": "Eren Yeager",
+                    "actor": "Yuki Kaji"
+                },
+                {
+                    "character": "Mikasa Ackermann",
+                    "actor": "Yui Ishikawa"
+                },
+                {
+                    "character": "Armin Arlert",
+                    "actor": "Marina Inoue"
+                },
+                {
+                    "character": "Historia Reiss (Krista Lenz)",
+                    "actor": "Shiori Mikami"
+                },
+                {
+                    "character": "Reiner Braun",
+                    "actor": "Hajime Isayama"
+                },
+                {
+                    "character": "Jean Kirstein",
+                    "actor": "Kisho Taniyama"
+                },
+                {
+                    "character": "Marco Bott",
+                    "actor": "Ryota Osaka"
+                },
+                {
+                    "character": "Connie Springer",
+                    "actor": "Hiro Shimono"
+                },
+                {
+                    "character": "Sasha Braus",
+                    "actor": "Yu Kobayashi"
+                },
+                {
+                    "character": "Ymir",
+                    "actor": "Saki Fujita"
+                },
+                {
+                    "character": "Erwin Smith",
+                    "actor": "Daisuke Ono"
+                },
+                {
+                    "character": "Hange Zoe",
+                    "actor": "Romi Park"
+                },
+                {
+                    "character": "Levi Ackermann",
+                    "actor": "Hiroshi Kamiya"
+                }
+            ]
+        },
+        {
+            "title": "Komi Can't Communicate",
+            "cast": [
+                {
+                    "character": "Shoko Komi",
+                    "actor": "Aoi Koga"
+                },
+                {
+                    "character": "Hitohito Tadano",
+                    "actor": "Gakuto Kajiwara"
+                },
+                {
+                    "character": "Najimi Osana",
+                    "actor": "Rie Murakawa"
+                },
+                {
+                    "character": "Ren Yamai",
+                    "actor": "Rina Hidaka"
+                },
+                {
+                    "character": "Omoharu Nakanaka",
+                    "actor": "Rumi Okubo"
+                },
+                {
+                    "character": "Himiko Agari",
+                    "actor": "Yukiyo Fujii"
+                },
+                {
+                    "character": "Makeru Yadano",
+                    "actor": "Ami Maeshima"
+                },
+                {
+                    "character": "Rumiko Manbagi",
+                    "actor": "Ai Yoshikawa"
+                }
+            ] 
+        },
+        {
+            "title": "Welcome to Demon School! Iruma-kun",
+            "cast": [
+                {
+                    "character": "Iruma Suzuki",
+                    "actor": "Ayumu Murase"
+                },
+                {
+                    "character": "Alice Asmodeus",
+                    "actor": "Ryohei Kimura"
+                },
+                {
+                    "character": "Ameri Azazel",
+                    "actor": "Saori Hayami"
+                },
+                {
+                    "character": "Clara Valac",
+                    "actor": "Ayaka Asai"
+                },
+                {
+                    "character": "Kalego Naberius",
+                    "actor": "Daisuke Ono"
+                },
+                {
+                    "character": "Sullivan",
+                    "actor": "Takaya Kuroda"
+                },
+                {
+                    "character": "Opera",
+                    "actor": "Mitsuki Saiga"
+                },
+                {
+                    "character": "Subro Sabnock",
+                    "actor": "Takuya Sato"
+                },
+                {
+                    "character": "Keroli Crocell",
+                    "actor": "Nao Toyama"
+                },
+                {
+                    "character": "Jazz M. Andro",
+                    "actor": "Tetsuya Kakihara"
+                },
+                {
+                    "character": "Lied Shax",
+                    "actor": "Yoshitaka Yamaya"
+                },
+                {
+                    "character": "Elizabeth Ix",
+                    "actor": "Kaede Hondo"
+                },
+                {
+                    "character": "Kamui Caim",
+                    "actor": "Gakuto Kajiwara"
+                },
+                {
+                    "character": "Picero Agares",
+                    "actor": "Takuto Yoshinaga"
+                },
+                {
+                    "character": "Goemon Garp",
+                    "actor": "Genki Okawa"
+                },
+                {
+                    "character": "Schneider Allocer",
+                    "actor": "Shunichi Toki"
+                },
+                {
+                    "character": "Kirio Amy",
+                    "actor": "Ryota Osaka"
+                },
+                {
+                    "character": "Shichirou Balam",
+                    "actor": "Katsuyuki Konishi"
+                }
+            ]
+        },
+        {
+            "title": "Hunter x Hunter (2011)",
+            "cast": [
+                {
+                    "character": "Gon Freecss",
+                    "actor": "Megumi Han" 
+                },
+                {
+                    "character": "Killua Zoldyck",
+                    "actor": "Mariya Ise"
+                },
+                {
+                    "character": "Kurapika",
+                    "actor": "Miyuki Sawahiro"
+                },
+                {
+                    "character": "Leorio Paradinight",
+                    "actor": "Keiji Fujiwara"
+                },
+                {
+                    "character": "Hisoka Morow",
+                    "actor": "Daisuke Namikawa"
+                },
+                {
+                    "character": "Chrollo Lucifer",
+                    "actor": "Mamoru Miyano"
+                },
+                {
+                    "character": "Bonolenov Ndongo",
+                    "actor": "Cho"
+                },
+                {
+                    "character": "Feitan Portor",
+                    "actor": "Kappei Yamaguchi"
+                },
+                {
+                    "character": "Franklin Bordeau",
+                    "actor": "Hidenobu Kiuchi"
+                },
+                {
+                    "character": "Kortopi",
+                    "actor": "Shinya Hamazoe"
+                },
+                {
+                    "character": "Machi Komacine",
+                    "actor": "Rena Maeda"
+                },
+                {
+                    "character": "Nobunaga Hazama",
+                    "actor": "Naoya Uchida"
+                },
+                {
+                    "character": "Pakunoda",
+                    "actor": "Romi Park"
+                },
+                {
+                    "character": "Phinks Magcub",
+                    "actor": "Kenn"
+                },
+                {
+                    "character": "Shalnark",
+                    "actor": "Noriko Hidaka"
+                },
+                {
+                    "character": "Shizuku Murasaki",
+                    "actor": "Miho Arakawa"
+                },
+                {
+                    "character": "Uvogin",
+                    "actor": "Akio Otsuka"
+                },
+                {
+                    "character": "Kalluto Zoldyck",
+                    "actor": "Mamiko Noto"
+                },
+                {
+                    "character": "Illumi Zoldyck",
+                    "actor": "Masaya Matsukaze"
+                },
+                {
+                    "character": "Issac Netero",
+                    "actor": "Banjo Ginga"
+                },
+                {
+                    "character": "Ging Freecss",
+                    "actor": "Rikiya Koyama"
+                }
+            ]
+        },
+        {
+            "title": "Jujutsu Kaisen (呪術廻戦)",
+            "cast": [
+                {
+                    "character": "Yuji Itadori",
+                    "actor": "Junya Enoki"
+                },
+                {
+                    "character": "Ryomen Sukuna",
+                    "actor": "Junichi Suwabe"
+                },
+                {
+                    "character": "Megumi Fushiguro",
+                    "actor": "Yuma Uchida"
+                },
+                {
+                    "character": "Nobara Kugisaki",
+                    "actor": "Asami Seto"
+                },
+                {
+                    "character": "Maki Zenin",
+                    "actor": "Mikako Komatsu"
+                },
+                {
+                    "character": "Toge Inumaki",
+                    "actor": "Koki Uchiyama"
+                },
+                {
+                    "character": "Panda",
+                    "actor": "Tomokazu Seki"
+                },
+                {
+                    "character": "Yuta Okkotsu",
+                    "actor": "Megumi Ogata"
+                },
+                {
+                    "character": "Rika Orimoto",
+                    "actor": "Kana Hanzawa"
+                },
+                {
+                    "character": "Satoru Gojo",
+                    "actor": "Yuichi Nakamura"
+                },
+                {
+                    "character": "Kiyotaka Ijichi",
+                    "actor": "Mitsuo Iwata"
+                },
+                {
+                    "character": "Shoko Ieiri",
+                    "actor": "Aya Endo"
+                },
+                {
+                    "character": "Nanami Kento",
+                    "actor": "Kenjiro Tsuda"
+                },
+                {
+                    "character": "Akari Nitta",
+                    "actor": "Sora Tokui"
+                },
+                {
+                    "character": "Masamichi Yaga",
+                    "actor": "Takaya Kuroda"
+                },
+                {
+                    "character": "Aoi Todo",
+                    "actor": "Subaru Kimura"
+                },
+                {
+                    "character": "Mai Zenin",
+                    "actor": "Marina Inoue"
+                },
+                {
+                    "character": "Kasumi Miwa",
+                    "actor": "Chinatsu Akasaki"
+                },
+                {
+                    "character": "Kokichi Muta (Mechamaru",
+                    "actor": "Yoshitsugu Matsuoka"
+                },
+                {
+                    "character": "Momo Nishimiya",
+                    "actor": "Rie Kugimiya"
+                },
+                {
+                    "character": "Suguru Geto",
+                    "actor": "Takahiro Sakurai"
+                },
+                {
+                    "character": "Mahito",
+                    "actor": "Nobunaga Shimazaki"
+                },
+                {
+                    "character": "Jogo",
+                    "actor": "Shigeru Chiba"
+                },
+                {
+                    "character": "Hanami",
+                    "actor": "Atuko Tanaka"
+                },
+                {
+                    "character": "Choso",
+                    "actor": "Daisuke Namikawa"
+                }
+            ]
+        },
+        {
+            "title": "Death Note",
+            "cast": [
+                {
+                    "character": "Light Yagami",
+                    "actor":"Mamoru Miyano"
+                },
+                {
+                    "character": "Misa Amane",
+                    "actor": "Aya Hirano"
+                },
+                {
+                    "character": "L Lawliet",
+                    "actor": "Kappei Yamaguchi"
+                },
+                {
+                    "character": "Ryuk",
+                    "actor": "Shidou Nakamura"
+                },
+                {
+                    "character": "Near",
+                    "actor": "Noriko Hidaka"
+                },
+                {
+                    "character": "Teru Mikami",
+                    "actor": "Masaya Matsukaze"
+                }
+            ]
+        },
+        {
+            "title": "Bungo Stray Dogs (文豪ストレイドッグス)",
+            "cast": [
+                {
+                    "character": "Atsushi Nakajima",
+                    "actor": "Yuto Uemura"
+                },
+                {
+                    "character": "Osamu Dazai",
+                    "actor": "Mamoru Miyano"
+                },
+                {
+                    "character": "Doppo Kunikida",
+                    "actor": "Yoshimasa Hosoya"
+                },
+                {
+                    "character": "Ranpo Edogawa",
+                    "actor": "Hiroshi Kamiya"
+                },
+                {
+                    "character": "Junichiro Tanizaki",
+                    "actor": "Toshiyuki Toyonaga"
+                },
+                {
+                    "character": "Kenji Miyazawa",
+                    "actor": "Hiroyuki Kagura"
+                },
+                {
+                    "character": "Akiko Yosano",
+                    "actor": "Yu Shimamura"
+                },
+                {
+                    "character": "Yukichi Fukuzawa",
+                    "actor": "Rikiya Koyama"
+                },
+                {
+                    "character": "Kyoka Izumi",
+                    "actor": "Sumire Morohoshi"
+                },
+                {
+                    "character": "Naomi Tanizaki",
+                    "actor": "Chiaki Omigawa"
+                },
+                {
+                    "character": "Katai Tayama",
+                    "actor": "Kenichi Suzumura"
+                },
+                {
+                    "character": "Ryunosuke Akutagawa",
+                    "actor": "Kensho Ono"
+                },
+                {
+                    "character": "Chuya Nakahara",
+                    "actor": "Kisho Taniyama"
+                },
+                {
+                    "character": "Ichiyo Higuchi",
+                    "actor": "Asami Seto"
+                },
+                {
+                    "character": "Motojiro Kaji",
+                    "actor": "Wataru Hatano"
+                },
+                {
+                    "character": "Hirotsu Ryuro",
+                    "actor": "Atsushi Ono"
+                },
+                {
+                    "character": "Michizo Tachihara",
+                    "actor": "Yu Hayashi"
+                },
+                {
+                    "character": "Gin Akutagawa",
+                    "actor": "Shiina Natsukawa"
+                },
+                {
+                    "character": "Ogai Mori",
+                    "actor": "Mitsuru Miyamoto"
+                },
+                {
+                    "character": "Elise",
+                    "actor": "Sora Amamiya"
+                },
+                {
+                    "character": "Koyo Ozaki",
+                    "actor": "Ami Kohsimizu"
+                },
+                {
+                    "character": "Sakunosuke Oda",
+                    "actor": "Junichi Suwabe"
+                },
+                {
+                    "character": "Kyusaku Yumeno",
+                    "actor": "Haruka Kudo"
+                },
+                {
+                    "character": "Ace",
+                    "actor": "Daisuke Ono"
+                },
+                {
+                    "character": "Francis Scott Key Fitgerald",
+                    "actor": "Takahiro Sakurai"
+                },
+                {
+                    "character": "Lucy Maud Montgomery",
+                    "actor": "Kana Hanzawa"
+                },
+                {
+                    "character": "Margaret Mitchell",
+                    "actor": "Kaori Nazuka"
+                },
+                {
+                    "character": "Nathaniel Hawthorne",
+                    "actor": "Tarusuke Shingaki"
+                },
+                {
+                    "character": "John Steinbeck",
+                    "actor": "Kengo Kawanishi"
+                },
+                {
+                    "character": "Howard Phillips Lovecraft",
+                    "actor": "Shunsuke Takeuchi"
+                },
+                {
+                    "character": "Mark Twain",
+                    "actor": "Hiroyuki Yoshino"
+                },
+                {
+                    "character": "Louisa May Alcott",
+                    "actor": "Hikaru Ueda"
+                },
+                {
+                    "character": "Herman Melville",
+                    "actor": "Takayuki Sugo"
+                },
+                {
+                    "character": "Edgar Allan Poe",
+                    "actor": "Toshiyuki Morikawa"
+                },
+                {
+                    "character": "Fyodor Dostoyevsky",
+                    "actor": "Akira Ishida"
+                },
+                {
+                    "character": "Alexander Pushkin",
+                    "actor": "Daisuke Kirii"
+                }
+            ]
+        }
+    ]
+}
+
+    
